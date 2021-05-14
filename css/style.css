@@ -51,7 +51,7 @@ img:hover {
 .column {
   /*display: float;*/
   /*width: 48%;*/
-  display: float;
+  display: inline-block;
   width: 48%;
 
 }
